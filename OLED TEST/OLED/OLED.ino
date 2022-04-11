@@ -18,6 +18,9 @@
  included in any redistribution.
  **************************************************************************/
 
+// TIPS: remember to always clear display buffer, and remember to always display.display()
+
+
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
