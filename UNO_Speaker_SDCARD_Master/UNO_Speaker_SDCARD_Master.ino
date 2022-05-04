@@ -36,7 +36,7 @@ void loop() {
   for (int i = 0; i < 128; i++) {
     j = WAV1.read();
     ESP32.print(j);
-//  delay(100);
+//    delay(100);
 //    Serial.print(j, HEX);
 //    Serial.print(", ");
     
